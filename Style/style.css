@@ -3,3 +3,7 @@ body {
 }
 header
     {color: blue}
+
+.hidden {
+  display: none;
+}
